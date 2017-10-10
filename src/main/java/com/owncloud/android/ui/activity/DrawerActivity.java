@@ -238,6 +238,8 @@ public abstract class DrawerActivity extends ToolbarActivity implements DisplayU
                     new Handler().post(pendingRunnable);
                     pendingRunnable = null;
                 }
+
+                closeDrawer();
             }
 
             /** Called when a drawer has settled in a completely open state. */
