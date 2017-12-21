@@ -16,7 +16,7 @@
     <string name ="data_folder">colosus</string>
     <string name ="log_name">colosus</string>
     <string name ="default_display_name_for_root_folder">Colosus</string>
-    <string name ="user_agent">Mozilla/5.0 (Android) colosus-android/%1$s</string>
+    <string name ="user_agent"></string>
     
     <!-- URLs and flags related -->
     <string name="server_url">https://colosus.indonesiancloud.com</string>
@@ -48,11 +48,11 @@
     <array name="whatsnew_urls"></array>
 
     <!-- Colors -->
-    <color name="primary">#0082c9</color>
-    <color name="primary_dark">#006AA3</color>
-    <color name="color_accent">#007CC2</color>
+    <color name="primary">#dc0814</color>
+    <color name="primary_dark">#E86761</color>
+    <color name="color_accent">#dc0814</color>
     <color name="login_text_color">@color/white</color>
-    <color name="login_text_hint_color">#7fC0E3</color>
+    <color name="login_text_hint_color">#dc0814</color>
     <color name="background_color">#FFFFFF</color>
     <color name="primary_button_background_color">@color/color_accent</color>
     <color name="primary_button_text_color">@color/white</color>
